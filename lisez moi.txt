@@ -1,0 +1,32 @@
+lisez-moi:
+
+
+-procedure de demarrage du serveur et lancement de l'application web:
+	1-Avoir Django installer sur son pc
+	2-lancer la console et accéder au repertoire de l'application
+	3-executer la commande: "python manage.py runserver"
+	4- Ouvrir votre navigateur et saisir l'adresse 'localhsost:port' affiché dans la console pour lancer l'application
+
+-petit description des dossiers et certains fichiers:
+	
+	dossier "mosac": contient les fichiers de configurations django propre à notre projet web
+	
+
+	dossier "racine": contient les fichiers et dossiers du site web
+
+
+-description des fichiers et sous-dossiers  du dossier "racine"
+	fichier:
+		"__init__":fichier d'initialisation du projet permettant la reconnaissance du projet par le moteur django(pas important dans notre cadre)
+		"admin":fichier d'administration du projet web permet de gerer les referencements
+		"apps":fichier permettant de spécifier des infos de base sur notre application
+		"forms":fichier permettant de definir les formulaires 
+		"models":fichier permettant de definir nos models qui font office d'interfaçage avec les tables de la BD
+		"tests": comme son nom l'indique permet de faire programmer des tests
+		"views":fichier contenant toute la logique de notre application(en quelque sorte  le cerveau du site) 
+
+	dossier:
+		"media":contient tout les fichiers et futur fichiers multimedia
+		"migrations":stocke les traces de log dans la BD
+		"static":contient l'ensemble de nos fichiers css et java script, aussi des images de bases des templates
+		"template":contient tout les fichier html

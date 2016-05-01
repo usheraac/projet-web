@@ -1,0 +1,102 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mosac.com" resolutions="1x" timestamp="1449754717315">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-gabarit.css" crc="4248165342" ref="citytrips:amerique:index:aventure:a-ne-pas-rater:explorer:afrique:decouvrir:asie:publier:oceanie:europe:vivre-la-montagne:au-bord-de-mer"/>
+    <file name="citytrips.css" crc="217743083" ref="citytrips"/>
+    <file name="amerique.css" crc="217743083" ref="amerique"/>
+    <file name="index.css" crc="3806822456" ref="index"/>
+    <file name="aventure.css" crc="217743083" ref="aventure"/>
+    <file name="a-ne-pas-rater.css" crc="217743083" ref="a-ne-pas-rater"/>
+    <file name="explorer.css" crc="413085412" ref="explorer"/>
+    <file name="afrique.css" crc="217743083" ref="afrique"/>
+    <file name="decouvrir.css" crc="217743083" ref="decouvrir"/>
+    <file name="asie.css" crc="217743083" ref="asie"/>
+    <file name="publier.css" crc="217743083" ref="publier"/>
+    <file name="oceanie.css" crc="217743083" ref="oceanie"/>
+    <file name="europe.css" crc="217743083" ref="europe"/>
+    <file name="vivre-la-montagne.css" crc="217743083" ref="vivre-la-montagne"/>
+    <file name="au-bord-de-mer.css" crc="217743083" ref="au-bord-de-mer"/>
+  </folder>
+  <folder name="assets">
+    <file name="fond.png" crc="531256835" seo="true" mt="1449172098000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="museutils.js" crc="183364071" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+  </folder>
+  <folder name="images">
+    <file name="43986.jpg" crc="117638255" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u255.png" crc="4166324560" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u255-r.png" crc="4011521997" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u255-m.png" crc="134815619" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u261.png" crc="3805161550" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u261-r.png" crc="20235274" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u261-a.png" crc="488568514" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u281.png" crc="132243045" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u281-r.png" crc="194226228" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u281-a.png" crc="3763102645" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u438.png" crc="471252071" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u438-r.png" crc="4020102456" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u453.png" crc="122849871" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u453-r.png" crc="480767039" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u456.png" crc="328416569" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u456-r.png" crc="3852489421" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u463.png" crc="4164440476" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u463-r.png" crc="286066342" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u471.png" crc="3852383081" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u471-r.png" crc="3843699827" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u297.png" crc="245421870" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u297-r.png" crc="4154862618" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u297-a.png" crc="177407239" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u478.png" crc="225919485" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u478-r.png" crc="3965690202" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u490.png" crc="3851437012" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u490-r.png" crc="3802161436" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u496.png" crc="407183814" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u496-r.png" crc="3851358869" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u503.png" crc="40873596" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u503-r.png" crc="4121263112" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u510.png" crc="4061086715" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u510-r.png" crc="96928459" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u322.png" crc="39217361" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u322-r.png" crc="162256514" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u322-a.png" crc="479343902" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="cactus-crop-u616.jpg" crc="148889631" ref="index"/>
+    <file name="road-crop-u612.jpg" crc="139077109" ref="index"/>
+    <file name="trees-crop-u614.jpg" crc="23378787" ref="index"/>
+    <file name="u624-grad.png" crc="104240740" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u699.png" crc="319622179" ref="index"/>
+    <file name="u699-r.png" crc="319622179" ref="index"/>
+    <file name="road134x89.jpg" crc="521461035" seo="true" ref="index"/>
+    <file name="cactus134x89.jpg" crc="217408482" seo="true" ref="index"/>
+    <file name="trees134x89.jpg" crc="3924104026" seo="true" ref="index"/>
+    <file name="u209-4.png" crc="4142695486" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+    <file name="u210-4.png" crc="3829362237" ref="index:explorer:decouvrir:publier:europe:au-bord-de-mer:amerique:a-ne-pas-rater:afrique:asie:oceanie:vivre-la-montagne:citytrips:aventure"/>
+  </folder>
+  <file name="index.html" crc="3992622731" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="explorer.html" crc="353240986" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="decouvrir.html" crc="337909241" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="publier.html" crc="143647988" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="europe.html" crc="464159228" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="au-bord-de-mer.html" crc="4279942475" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="amerique.html" crc="4151783466" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="a-ne-pas-rater.html" crc="3938219578" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="afrique.html" crc="4033019937" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="asie.html" crc="274691205" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="oceanie.html" crc="3982028711" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="vivre-la-montagne.html" crc="3811718927" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="citytrips.html" crc="4133970357" seo="true" mt="1449754275065" redirect="true"/>
+  <file name="aventure.html" crc="508545673" seo="true" mt="1449754275065" redirect="true"/>
+</manifest>
