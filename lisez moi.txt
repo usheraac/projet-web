@@ -1,4 +1,7 @@
 lisez-moi:
+ce projet porte sur une application web qui récense les lieux touristiques à travers le monde et permet aux utilisateurs de partager
+les lieux touristiques passionnants et extraodinaire qu'ils ont eu à visiter afin que nous autres passionés en quête d'adventure nous puissons à notre
+tour suivre leur trace et jouir nous aussi de ces endroits paradisiaques.
 
 
 -procedure de demarrage du serveur et lancement de l'application web:
